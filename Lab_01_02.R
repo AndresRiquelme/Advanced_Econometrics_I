@@ -1,7 +1,7 @@
 #╒═══════════════════════════════════════════════════════════════════════════════╕
 #│ Sesión laboratorio 1                                                          │
 #│ Econometría Avanzada I Mención en Economía                                    │
-#│ Última Revisión: 1 de septiembre                                              │
+#│ Última Revisión: 24 de junio 2021                                             │
 #│ Ojo, este archivo tiene carácteres latinos y griegos, por lo que está         │
 #│      codificado en UTF-8.                                                     │
 #╘═══════════════════════════════════════════════════════════════════════════════╛
